@@ -20,7 +20,7 @@ const customStyle = {
 };
 let greeting;
 if (h < 12) {
-  greeting = "Good Morning";
+  greeting = "Good Mornings";
   customStyle.color = "red";
 } else if (h < 18) {
   greeting = "Good Afternoon";
